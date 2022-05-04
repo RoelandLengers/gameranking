@@ -25,5 +25,7 @@ This is the easiest part. Just execute the following steps:
 
 ## The Spreadsheet
 Took the longest to create.
+![image](https://user-images.githubusercontent.com/9610733/166826899-f7bcb6cf-1f35-40e4-894c-638247e3993f.png)
+
 
 ## The Flow
