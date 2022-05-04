@@ -15,7 +15,7 @@ It should be relatively straightforward to port this setup to Google Forms and G
 This is the easiest part. Just execute the following steps:
 1. Go to forms.office.com
 2. Create a new form, for example "GameScores"
-3. Create 4 questions:
+3. Create 4 questions (all questions should be set to "Required"):
 - Player 1 Name. Make it a "Choice" question. Provide some names of people on your team. For example: John, Jane, Jill, Peter. Make sure you enable the "Other" option. That way you do not need to change the form when you want to add a new player.
 - Player 1 Score. Set Restrictions to "Must be a number".
 - Player 2 Name. Make it a "Choice" question. Provide some names of people on your team. For example: John, Jane, Jill, Peter. Make sure you enable the "Other" option. That way you do not need to change the form when you want to add a new player.
