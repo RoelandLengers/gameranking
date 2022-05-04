@@ -11,7 +11,11 @@ This is the easiest part. Just execute the following steps:
 1. Go to forms.microsoft.com
 2. Create a new form, for example "GameScores"
 3. Create 4 questions:
-4. 
+- Player 1 Name
+- Player 1 Score
+- Player 2 Name
+- Player 2 Score
+4. Save the form.
 
 ## The Spreadsheet
 Took the longest to create.
